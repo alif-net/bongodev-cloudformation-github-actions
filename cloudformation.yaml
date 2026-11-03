@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: bongoDev classroom demo - Ubuntu 24.04 LTS + Nginx website with a new VPC
+Description: bongoDev training - Ubuntu 24.04 LTS + Nginx website with a new VPC
 
 Parameters:
   Environment:
